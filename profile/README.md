@@ -11,6 +11,7 @@ One project and up to five people writing to it, free. No card. [alcoven.co](htt
 
 ## From the blog
 
+- [Can a client ask my Claude project about the work themselves?](https://alcoven.co/blog/give-a-client-access-to-my-claude-project)
 - [ChatGPT Business vs Claude Team for a team that uses both](https://alcoven.co/blog/chatgpt-business-vs-claude-team)
 - [Can you share a ChatGPT project with Claude?](https://alcoven.co/blog/share-chatgpt-project-with-claude)
 - [Can you share a Claude project with a colleague?](https://alcoven.co/blog/share-claude-project-with-a-colleague)
